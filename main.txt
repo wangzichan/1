@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The First approached the Elephant, 
     And happening to fall 
 Against his broad and sturdy side, 
@@ -18,3 +19,11 @@ Can tell what this resembles most;
 This marvel of an 
     Elephant Is very like a fan!” 
 
+=======
+And so these men of Indostan 
+    Disputed loud and long, 
+Each in his own opinion 
+    Exceeding stiff and strong. 
+Though each was partly in the right 
+    And all were in the wrong! 
+>>>>>>> ffdcab09e37e995b994e088f6976dbc5883e2a30
